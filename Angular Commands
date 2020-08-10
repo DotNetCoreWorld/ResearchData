@@ -1,0 +1,9 @@
+## This file contain angulr cli commands .....
+
+ng -v
+This command is used to check cli version installed on local pc.
+
+ng g c Bus
+This command is used to generate component of name bus.
+
+
